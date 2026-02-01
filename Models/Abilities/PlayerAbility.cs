@@ -1,4 +1,4 @@
-namespace W9_assignment_template.Models.Abilities;
+namespace W10.Models.Abilities;
 
 /// <summary>
 /// A player-specific ability with a Shove property.

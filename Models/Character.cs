@@ -1,6 +1,6 @@
-using W9_assignment_template.Models.Abilities;
+using W10.Models.Abilities;
 
-namespace W9_assignment_template.Models;
+namespace W10.Models;
 
 /// <summary>
 /// Abstract base class for all characters - demonstrates TPH inheritance.

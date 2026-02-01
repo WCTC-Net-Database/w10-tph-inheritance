@@ -1,8 +1,8 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using W9_assignment_template.Data;
-using W9_assignment_template.Services;
+using W10.Data;
+using W10.Services;
 
-namespace W9_assignment_template;
+namespace W10;
 
 public static class Program
 {

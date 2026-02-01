@@ -1,4 +1,4 @@
-namespace W9_assignment_template.Models.Abilities;
+namespace W10.Models.Abilities;
 
 /// <summary>
 /// A goblin-specific ability with a Taunt property.

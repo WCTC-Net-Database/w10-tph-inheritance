@@ -1,4 +1,4 @@
-namespace W9_assignment_template.Models.Abilities;
+namespace W10.Models.Abilities;
 
 /// <summary>
 /// Abstract base class for all abilities - demonstrates TPH inheritance.

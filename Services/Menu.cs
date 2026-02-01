@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using W9_assignment_template.Data;
+using W10.Data;
 
-namespace W9_assignment_template.Services;
+namespace W10.Services;
 
 public class Menu
 {

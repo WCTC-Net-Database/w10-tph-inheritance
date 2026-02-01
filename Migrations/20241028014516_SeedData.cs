@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace W9_assignment_template.Migrations
+namespace W10.Migrations
 {
     public partial class SeedData : Migration
     {

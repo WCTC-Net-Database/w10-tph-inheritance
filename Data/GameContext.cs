@@ -1,8 +1,8 @@
 using Microsoft.EntityFrameworkCore;
-using W9_assignment_template.Models;
-using W9_assignment_template.Models.Abilities;
+using W10.Models;
+using W10.Models.Abilities;
 
-namespace W9_assignment_template.Data;
+namespace W10.Data;
 
 /// <summary>
 /// GameContext - The bridge between C# objects and the database.
